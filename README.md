@@ -91,3 +91,14 @@ http://localhost:3000
 
 ## Screen Shots
 
+### Login Page
+![Login Page](screenshots/login.png)
+### Register Page
+![Register Page](screenshots/register.png)
+### Add 
+![Register Page](screenshots/add.png)
+### Update
+![Register Page](screenshots/update.png)
+### Delete
+![Register Page](screenshots/delete.png)
+
